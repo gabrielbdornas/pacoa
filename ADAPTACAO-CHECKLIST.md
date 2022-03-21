@@ -1,12 +1,12 @@
 # Modificações/Adaptações do Modelo:
 
-[ ] Copiar e Colar Pasta do Projeto
+[x] Copiar e Colar Pasta do Projeto
 
-[ ] Renomear pasta com novo nome do projeto
+[x] Renomear pasta com novo nome do projeto
 
-[ ] Apagar pasta .git
+[x] Apagar pasta .git
 
-[ ] Criar nova pasta .git e sincronizar com github
+[x] Criar nova pasta .git e sincronizar com github
 
 ```
 # Terminal
@@ -18,7 +18,7 @@ $ git branch -M main
 $ git push origin main
 ```
 
-[ ] Trocar nome databases
+[x] Trocar nome databases
 
 ```
 # config/database.yml
@@ -38,7 +38,7 @@ production:
   password: <%= ENV['RAILS_ADMIN_TEMPLATE_DATABASE_PASSWORD'] %>
 ```
 
-[ ] Finalizando adaptação
+[x] Finalizando adaptação
 
 localizar todos "rails_admin_template", "rails-admin-template" e "RailsAdminTemplate" e substituir pelo nome do projeto
 
