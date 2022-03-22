@@ -1,7 +1,7 @@
 RailsAdmin.config do |config|
 
   # Customizando o nome do app
-  config.main_app_name = ["Colocar Aqui", "| Nome do App"]
+  config.main_app_name = ["Pacoa", "| Cadastro Beneficiários"]
 
   # Personalizando menu de navegação com links adicionais
   config.navigation_static_links = {
