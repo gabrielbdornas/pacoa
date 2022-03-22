@@ -42,7 +42,7 @@ production:
 
 localizar todos "rails_admin_template", "rails-admin-template" e "RailsAdminTemplate" e substituir pelo nome do projeto
 
-[ ] Customizar nome do app
+[x] Customizar nome do app
 
 ```
 initializers/rails_admin config file
@@ -50,7 +50,7 @@ initializers/rails_admin config file
 config.main_app_name = ["Colocar Aqui", "| Nome do App"]
 ```
 
-[ ] Customizar Página de Login
+[x] Customizar Página de Login
 
 ```
 app/views/devise/sessions new file
@@ -58,7 +58,7 @@ app/views/devise/sessions new file
 <h3>RAILS ADMIN TEMPLATE</h3>
 ```
 
-[ ] Criar Banco
+[x] Criar Banco
 
 ```
 # terminal
