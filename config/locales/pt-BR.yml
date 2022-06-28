@@ -9,6 +9,9 @@ pt-BR:
       user:
         one: "Usuário"
         other: "Usuários"
+      recipient:
+        one: "Beneficiário"
+        other: "Beneficiário"
     attributes:
       user:
         name: "Nome"
